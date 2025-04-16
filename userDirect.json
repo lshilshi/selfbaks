@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".angtacviet.com",
+        ".angtacviet.xyz",
+        ".angtacviet.vip",
+        ".sdelivr.net",
+        ".dynv6.net"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "103.82.20.93/32"
+      ]
+    }
+  ]
+}
